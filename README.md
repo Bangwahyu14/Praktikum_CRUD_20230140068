@@ -93,3 +93,6 @@ Respon Sukses (200):
   "status": "success delete user with id 0e467055-6bca-4fe4-9f18-70d74623e3d8"
 }
 ```
+
+<img width="1918" height="1079" alt="Screenshot 2026-03-02 113828" src="https://github.com/user-attachments/assets/34a85e3b-c918-4ecb-8759-9798c759917d" />
+
